@@ -9,11 +9,6 @@ body{
    margin: 0;
 }
 
-/* .path-container {
-    width: 1440px;
-    height: 437px;
-    clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
-    background-color: #D6E1FF} */
 
 .card{
     width: 450px;
@@ -23,14 +18,11 @@ body{
     border: none ;
     border-radius: 10px;
     background-color: #FFFFFF;
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
+
     text-align: center;
-    padding: 20;
+    padding: 20px;
     border: 1px;
-    border-radius: 10px;
-    
+    border-radius: 10px; 
 }
 
 
@@ -48,9 +40,7 @@ letter-spacing: 0px;
 text-align: center;
 color: #1F2E55;
 margin-bottom: 20px;
-margin-left: 53px;
-
-}
+margin-left: 53px;}
 
 .card-content{
     width: 354px;
